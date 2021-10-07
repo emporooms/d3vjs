@@ -83,7 +83,7 @@ const NewsletterForm = ({ status, message, onValidated }) => {
                     <Button variant="primary" onClick={handleFormSubmit}>Request a Demo</Button>
                 </div>
                 <span style={{ paddingTop: '15px', paddingBottom: '15px', fontWeight: 'bold' }}>or</span>
-                <Button style={{ width: '100%' }} onClick={() => window.open("https://gumroad.com/l/tBBPYk", "_blank")} variant="primary">
+                <Button style={{ width: '100%' }} onClick={() => window.open("https://gumroad.com/l/SceTf", "_blank")} variant="primary">
                     Reserve Your Spot</Button>
             </div>
             <div className="newsletter-form-info" style={{ paddingTop: "20px" }}>
