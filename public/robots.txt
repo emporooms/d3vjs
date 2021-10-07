@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://emporooms.com
+
+# Sitemaps
+Sitemap: https://emporooms.com/sitemap.xml
