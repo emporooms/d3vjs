@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { decode } from 'html-entities';
+import { decode } from 'html-entities'
 import {
     Button,
     Label,
